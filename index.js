@@ -8,7 +8,10 @@ const dates = [
 ];
 
 // TODO: Buatlah fungsi createDate
-const createDate = null;
+const createDate = function(dates){
+  let tgl = dates.parse
+
+};
 
 // ! JANGAN DIMODIFIKASI
 (() => {
